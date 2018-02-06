@@ -1,0 +1,5 @@
+python
+vendor
+.idea
+*.p12
+composer.lock
