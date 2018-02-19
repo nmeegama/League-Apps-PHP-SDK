@@ -20,6 +20,4 @@ thats it.
 
 - PHP 7.1 > 
 - OpenSSL Extension
-
-
-**Important:** The current code ends up returning a HTTP status code : 400  Error message is: {"errorCode":40005,"message":"Invalid Request"}. 
+ 
